@@ -2,7 +2,7 @@
 
 int main()
 {
-    printf("Hello form MAIN!\n");
+    printf("Hello from GIT MERGE!\n");
     printf("This is my first Git lab.\n");
     return 0;
 }
